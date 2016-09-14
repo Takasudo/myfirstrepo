@@ -1,0 +1,6 @@
+git clone https://github.com/banorirorin/myfirstrepo.git
+cd myfirstrepo/
+emacs README.md
+git add README.md
+git commit -m "myfirstcommit"
+git push
